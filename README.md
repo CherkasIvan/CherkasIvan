@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/0EXJD3zK8X49VX1nUB/giphy.gif" width="80%"/>
     <div id="badges">
         <a href="linkedin.com/in/ivan-cherkas-723b411a2">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://www.instagram.com/johnny_void_13">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
