@@ -25,7 +25,6 @@
     </div>
     <div id="main">
         <div>
-            <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt="" />
                 <h2>:bulb: Languages & Frameworks I code in</h2>
             <code>
                 <img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -63,6 +62,7 @@
             <img height="200" src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan"/>
         </a>
     </div>
+    <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt="" />
 </div>
 
 <!--
