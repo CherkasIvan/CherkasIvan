@@ -23,7 +23,10 @@
             <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="X-Twitter"/>
         </a>
     </div>
-    <div>
+
+</br>
+    <div id="main">
+            <div>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
         <h2>:bulb: Languages & Frameworks I code in</h2>
     <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -36,8 +39,6 @@
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
     </div>
-</br>
-    <div id="main">
         <a href="https://github.com/CherkasIvan" align="left">
             <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
         </a>
