@@ -10,6 +10,7 @@
     <br>
     <br>
     <div id="badges">
+        <h2>:busts_in_silhouette: How to reach me</h2>
         <a href="https://vk.com/cherkasss">
             <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/>
         </a>
