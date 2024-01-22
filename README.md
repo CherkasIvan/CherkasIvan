@@ -16,8 +16,13 @@
   </h1>
 
   <div>
-      <p>[![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan)</p>
-      <img src="![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan"/>
+      <p align="center" >
+    <a href="https://www.codewars.com/users/Cherkas%20Ivan">
+      <img src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan" />
+    </a>
+</p>
+<!--       <p>[![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan)</p>
+      <img src="![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan"/> -->
   </div>
 </div>
        
