@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?CherkasIvan&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **CherkasIvan/CherkasIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
