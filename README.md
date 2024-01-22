@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/0EXJD3zK8X49VX1nUB/giphy.gif" width="80%"/>
+    <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="80%"/>
     <div id="badges">
         <a href="https://vk.com/cherkasss">
             <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/>
