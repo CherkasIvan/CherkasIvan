@@ -24,7 +24,7 @@
         </a>
     </div>
     <div id="main">
-        <div align="left">
+        <div>
             <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
                 <h2>:bulb: Languages & Frameworks I code in</h2>
             <code>
