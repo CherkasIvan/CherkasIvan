@@ -14,9 +14,6 @@
             <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="X-Twitter"/>
         </a>
     </div>
-    <a href="https://github.com/CherkasIvan">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=320" />
-    </a>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
         <h1>
             <p align="center">
@@ -25,14 +22,15 @@
                 </a>
             </p>
         </h1>
-    < id="main" align="center">
-        <div>
-            <p align="center" >
-                <a href="https://www.codewars.com/users/Cherkas%20Ivan">
-                <img src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan" />
-                </a>
-            </p>
-        </div>
+    <div id="main" align="center" style="display="flex"">
+        <a href="https://github.com/CherkasIvan">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=320" />
+        </a>
+        <p align="center">
+            <a href="https://www.codewars.com/users/Cherkas%20Ivan">
+            <img src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan" />
+            </a>
+        </p>
     </div>
 </div>
 
