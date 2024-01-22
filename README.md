@@ -15,8 +15,8 @@
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
-        <h1>
-            <p align="center">
+        <h1 align="center">
+            <p>
                 <a href="https://github.com/CherkasIvan">
                     <img width="80%" alt="Hello ladies and gentlemens, I'm Ivan and fullstack!" src="./assets/gh-readme-header.png"/>
                 </a>
@@ -26,7 +26,7 @@
         <a href="https://github.com/CherkasIvan" align="left">
             <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
         </a>
-        <a href="https://www.codewars.com/users/Cherkas%20Ivan" align="right">
+        <a href="https://www.codewars.com/users/Cherkas%20Ivan" align="right" width="40%">
             <img src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan"/>
         </a>
     </div>
