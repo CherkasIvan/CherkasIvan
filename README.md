@@ -24,10 +24,10 @@
         </h1>
     <div id="main">
         <a href="https://github.com/CherkasIvan" align="left">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
+            <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
         </a>
         <a href="https://www.codewars.com/users/Cherkas%20Ivan" align="right">
-            <img src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan" width="40%"/>
+            <img height="100%" src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan" width="40%"/>
         </a>
     </div>
 </div>
