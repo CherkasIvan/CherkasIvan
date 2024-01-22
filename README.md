@@ -2,7 +2,7 @@
     <div id="top">
         <div align="center">
             <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Ivan;Fullstack+Engineer+Angular/NodeJS/NestJS;Glad+to+see+you+here!" alt="full-stack angineer angular/NodeJS/NestJS"/>
+                <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=I'm+Ivan;Fullstack+Engineer+Angular/NodeJS/NestJS;Glad+to+see+you+here!;" alt="full-stack angineer angular/NodeJS/NestJS"/>
             </a>
         </div>
     </div>
