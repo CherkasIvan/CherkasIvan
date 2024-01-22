@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/0EXJD3zK8X49VX1nUB/giphy.gif" height="10%"  width="80%"/>
+    <img src="https://media.giphy.com/media/0EXJD3zK8X49VX1nUB/giphy.gif" width="80%"/>
     <div id="badges">
         <!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
