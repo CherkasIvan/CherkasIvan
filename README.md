@@ -22,11 +22,11 @@
                 </a>
             </p>
         </h1>
-    <div id="main" align="center" style="display="flex"">
-        <a href="https://github.com/CherkasIvan">
+    <div id="main" align="center"">
+        <a href="https://github.com/CherkasIvan" align="left">
           <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=320" />
         </a>
-        <p align="center">
+        <p align="right">
             <a href="https://www.codewars.com/users/Cherkas%20Ivan">
             <img src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan" />
             </a>
