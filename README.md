@@ -35,8 +35,8 @@
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
-</br>
     </div>
+</br>
     <div id="main">
         <a href="https://github.com/CherkasIvan" align="left">
             <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
