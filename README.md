@@ -22,9 +22,9 @@
                 </a>
             </p>
         </h1>
-    <div id="main" align="center"">
+    <div id="main">
         <a href="https://github.com/CherkasIvan" align="left">
-            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280" />
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
         </a>
         <a href="https://www.codewars.com/users/Cherkas%20Ivan" align="right">
             <img src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan"/>
