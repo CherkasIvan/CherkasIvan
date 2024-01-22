@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?CherkasIvan=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="60%"/>
     <br>
@@ -18,13 +17,12 @@
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
-        <h1 align="center">
-            <p>
-                <a href="https://github.com/CherkasIvan">
-                    <img width="80%" alt="Hello ladies and gentlemens, I'm Ivan and fullstack!" src="./assets/gh-readme-header.png"/>
-                </a>
-            </p>
-        </h1>
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
     <div id="main">
         <a href="https://github.com/CherkasIvan" align="left">
             <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
