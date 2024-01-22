@@ -17,6 +17,7 @@
 
   <div>
       <p>[![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan)</p>
+      <img src="![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan"/>
   </div>
 </div>
        
