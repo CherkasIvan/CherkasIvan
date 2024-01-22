@@ -1,4 +1,5 @@
-### Hi there 👋
+[![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan)
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/0EXJD3zK8X49VX1nUB/giphy.gif" style="width=100%"/>
 
@@ -14,7 +15,7 @@
       Hello ladies and gentlemens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-    [![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan)   
+       
 
 <div id="main" align="center">
 </div>
