@@ -14,6 +14,12 @@
             <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="X-Twitter"/>
         </a>
     </div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
         <h1>
             <p align="center">
@@ -22,7 +28,7 @@
                 </a>
             </p>
         </h1>
-    <div id="main" align="center">
+    < id="main" align="center">
         <div>
             <p align="center" >
                 <a href="https://www.codewars.com/users/Cherkas%20Ivan">
