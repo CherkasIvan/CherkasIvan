@@ -9,7 +9,7 @@
     <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="60%"/>
     <br>
     <h2 align="center">:busts_in_silhouette: How to reach me?</h2>
-    <div id="badges">
+    <div id="badges">:
         <a href="https://vk.com/cherkasss">
             <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/>
         </a>
