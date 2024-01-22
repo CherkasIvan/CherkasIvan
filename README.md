@@ -12,7 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
 
   <h1>
-      Hello ladies and gentlemens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      <p align="center">
+          <a href="https://github.com/CherkasIvan">
+              <img width="80%" alt="Hello ladies and gentlemens, I'm Ivan and fullstack!" src="./assets/gh-readme-header.png"/>
+          </a>
+      </p>
   </h1>
 </div>
        
