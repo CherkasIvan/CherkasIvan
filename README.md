@@ -1,9 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  
-  <div style="position:relative">
-    <img src="https://giphy.com/embed/0EXJD3zK8X49VX1nUB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-  </div>
+    <img src="https://giphy.com/embed/0EXJD3zK8X49VX1nUB" width="100%" height="100%"/>
 
   <div id="badges">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
