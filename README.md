@@ -8,7 +8,7 @@
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
         <a href="https://codesandbox.io/u/anuraghazra">
-            <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+            <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="X-Twitter"/>
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt=""/>
