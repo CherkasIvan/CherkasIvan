@@ -14,9 +14,9 @@
       Hello ladies and gentlemens <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+    [![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan)   
 
 <div id="main" align="center">
-    [![codewars](https://www.codewars.com/users/Cherkas%20Ivan/badges/large)](https://www.codewars.com/users/Cherkas%20Ivan)   
 </div>
 <!--
 **CherkasIvan/CherkasIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
