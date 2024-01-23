@@ -36,10 +36,11 @@
     <div align="left">
   
 ```R
-// Added a js extension to indicate JavaScript code
-// Used a class to define the DataScienceEducator
 class DataScienceEducator {
-// Used a constructor to initialize the fields
+name: string;
+role: string;
+hobby: string;
+
 constructor() {
 this.name = "Greg Chism";
 this.role = "Assistant Professor of Practice";
@@ -47,9 +48,7 @@ this.hobby = "Website Development";
 }
 }
 
-// Used a function expression to define the say_hi function
-const say_hi = function (ds_edu) {
-// Used console.log to print the messages
+const say_hi = function (ds_edu: DataScienceEducator) { // Added a type annotation to the parameter
 console.log(`Passionate ${ds_edu.role} with a research background and over eight years of experience.`);
 console.log("Adept at harnessing data to uncover compelling stories and insight.");
 console.log("Empowering others to leverage their data and make complex concepts accessible.");
@@ -60,9 +59,7 @@ console.log("Inspiring the next generation of data scientists and storytellers b
 console.log("Thanks for reading!");
 };
 
-// Used the new keyword to create an instance of the DataScienceEducator
 const ds_edu = new DataScienceEducator();
-// Called the say_hi function with the ds_edu as an argument
 say_hi(ds_edu);
 ```
 </div>
