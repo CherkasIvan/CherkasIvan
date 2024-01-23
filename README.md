@@ -1,4 +1,4 @@
-<header id="header" align="center">
+<div id="header" align="center">
     <div id="top">
         <div align="center">
             <a href="https://git.io/typing-svg">
@@ -29,8 +29,8 @@
              <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" />
         </a>
     </div>
-</header>
-<main id="main">
+</div>
+<div id="main">
     <div align="left">
         <h2>:bulb: Languages & Frameworks I code in</h2>
         <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
@@ -51,7 +51,7 @@
         <a href="https://www.codewars.com/users/Cherkas%20Ivan" align="right">
             <img height="200" src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan"/>
         </a>
-</main>
+</div>
 
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt="" />
 
