@@ -36,31 +36,39 @@
     <div align="left">
   
 ```R
-class DataScienceEducator {
-name: string;
-role: string;
-hobby: string;
+// Added a ts extension to indicate TypeScript code
+// Used the @Component decorator to define the DataScienceEducator component
+import { Component } from '@angular/core';
 
-constructor() {
-this.name = "Greg Chism";
-this.role = "Assistant Professor of Practice";
-this.hobby = "Website Development";
+@Component({
+selector: 'software-engineer',
+template: `<div align="center">
+<h2>A little about me</h2>
+<p>{{ say_hi() }}</p>
+</div>`
+})
+export class SoftwareEngineer {
+    name: string;
+    role: string;
+    hobby: string;
+    
+    constructor() {
+        this.name = "Ivan Cherkas";
+        this.role = "Full-stack developer";
+        this.hobby = "Leather craft";
+    }
+    
+    say_hi(): string {
+        return `Passionate ${this.role} with a research background and over eight years of experience.
+        Adept at harnessing data to uncover compelling stories and insight.
+        Empowering others to leverage their data and make complex concepts accessible.
+        Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.
+        Capable of tackling a wide range of projects and challenges.
+        Committed to sharing knowledge and guiding others on their data-driven journeys.
+        Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.
+        Thanks for reading!`;
+    }
 }
-}
-
-const say_hi = function (ds_edu: DataScienceEducator) { // Added a type annotation to the parameter
-console.log(`Passionate ${ds_edu.role} with a research background and over eight years of experience.`);
-console.log("Adept at harnessing data to uncover compelling stories and insight.");
-console.log("Empowering others to leverage their data and make complex concepts accessible.");
-console.log("Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.");
-console.log("Capable of tackling a wide range of projects and challenges.");
-console.log("Committed to sharing knowledge and guiding others on their data-driven journeys.");
-console.log("Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.");
-console.log("Thanks for reading!");
-};
-
-const ds_edu = new DataScienceEducator();
-say_hi(ds_edu);
 ```
 </div>
           
