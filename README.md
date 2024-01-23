@@ -31,7 +31,7 @@
     </div>
 </div>
 <div id="main">
-    <div align="left">
+    <div align="left" id="tech">
         <h2>:bulb: Languages & Frameworks I code in</h2>
         <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
         <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
@@ -45,15 +45,18 @@
         <code> <img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
     </div>
     </br></br>
+    <div align="center" id="stats">
         <a href="https://github.com/CherkasIvan" align="left">
             <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
         </a>
         <a href="https://www.codewars.com/users/Cherkas%20Ivan" align="right">
             <img height="200" src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan"/>
         </a>
+    </div>
 </div>
-
+<div id="footer">
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt="" />
+</div>
 
 <!--
 **CherkasIvan/CherkasIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
