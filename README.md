@@ -1,17 +1,13 @@
-### My GitHub Statistics
-
 <div id="header" align="center">
-    <div id="top">
-        <div align="center">
-            <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=650&lines=Hello,+Ladies+and+Gentlemen!;I'm+Ivan;Full-stack+Engineer;Angular/NodeJS/NestJS;Glad+to+see+you+here!;" alt="full-stack angineer angular/NodeJS/NestJS"/>
-            </a>
-        </div>
+    <div id="greatings">
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=650&lines=Hello,+Ladies+and+Gentlemen!;I'm+Ivan;Full-stack+Engineer;Angular/NodeJS/NestJS;Glad+to+see+you+here!;" alt="full-stack angineer angular/NodeJS/NestJS"/>
+        </a>
     </div>
     <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="60%"/>
     <br>
-    <h2 align="center">:busts_in_silhouette: How to reach me?</h2>
     <div id="badges">
+        <h2>:busts_in_silhouette: How to reach me?</h2>
         <a href="https://vk.com/cherkasss">
             <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/>
         </a>
@@ -113,7 +109,13 @@
         </div>
     </div>
 </div>
-<div id="footer">
+</br></br>
+<div id="footer" align="center">
+    <div id="greatings">
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=650&lines=Thanks+for+watching+and+nice=to+meet+you;Come+again!;=);" alt="Thanks for watching and nice to meet you. Come again!"/>
+        </a>
+    </div>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt="" />
 </div>
 
