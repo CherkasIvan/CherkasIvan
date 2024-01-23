@@ -29,6 +29,7 @@
              <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" />
         </a>
     </div>
+</div>
     <h2>:bulb: Languages & Frameworks I code in</h2>
     <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
     <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
@@ -50,7 +51,6 @@
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt="" />
-</div>
 
 <!--
 **CherkasIvan/CherkasIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
