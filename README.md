@@ -30,28 +30,28 @@
         </a>
     </div>
 </div>
+<div id="main">
     <div align="left">
-    <h2>:bulb: Languages & Frameworks I code in</h2>
-    <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
-    <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-    <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
-    <code><img title="Angular" alt="angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></code>
-    <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
-    <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
-    <code> <img title="NestJS" alt="nest js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/></code>
-    <code> <img title="Sass" alt="sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></code>
-    <code> <img title="Jasmine" alt="jasmine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"/></code>
-    <code> <img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
+        <h2>:bulb: Languages & Frameworks I code in</h2>
+        <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
+        <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+        <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
+        <code><img title="Angular" alt="angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></code>
+        <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+        <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
+        <code> <img title="NestJS" alt="nest js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/></code>
+        <code> <img title="Sass" alt="sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></code>
+        <code> <img title="Jasmine" alt="jasmine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"/></code>
+        <code> <img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
     </div>
     </br></br>
-    <div id="main">
         <a href="https://github.com/CherkasIvan" align="left">
             <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
         </a>
         <a href="https://www.codewars.com/users/Cherkas%20Ivan" align="right">
             <img height="200" src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan"/>
         </a>
-    </div>
+</div>
     <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt="" />
 
 <!--
