@@ -14,16 +14,16 @@
             <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/>
         </a>
         <a href="https://www.instagram.com/johnny_void_13">
-            <img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"/>
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
         <a href="linkedin.com/in/ivan-cherkas-723b411a2">
-            <img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://twitter.com/ivanCherkas_13">
-            <img width="50px" src="https://i.ibb.co/CmSvDh4/Twitter.png" alt="Twitter" border="0"/>
+            <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="X-Twitter"/>
         </a>
         <a href="https://www.facebook.com/ivan.cherkas">
-            <img width="50px" src="https://i.ibb.co/mCWS8dP/Facebook.png" alt="Facebook" border="0"/>
+            <img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
         </a>
     </div>
     <h2>:bulb: Languages & Frameworks I code in</h2>
