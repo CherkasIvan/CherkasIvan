@@ -30,55 +30,55 @@
 </div>
 <div id="main">
     <details align="center">
-  <summary><b>:shipit: &nbsp; &nbsp;<h2> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 </h2> &nbsp;&nbsp;&nbsp; </b></summary>
-
-<div align="left">
-  
-```R
-DataScienceEducator <- setRefClass(
-  "DataScienceEducator",
-  fields = list(
-    name = "character",
-    role = "character",
-    hobby = "character"
-  ),
-  methods = list(
-    initialize = function() {
-      name <<- "Greg Chism"
-      role <<- "Assistant Professor of Practice"
-      hobby <<- "Website Development"
+      <summary><b>:shipit: &nbsp; &nbsp;<h2> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 </h2> &nbsp;&nbsp;&nbsp; </b></summary>
+    
+    <div align="left">
+      
+    ```R
+    DataScienceEducator <- setRefClass(
+      "DataScienceEducator",
+      fields = list(
+        name = "character",
+        role = "character",
+        hobby = "character"
+      ),
+      methods = list(
+        initialize = function() {
+          name <<- "Greg Chism"
+          role <<- "Assistant Professor of Practice"
+          hobby <<- "Website Development"
+        }
+      )
+    )
+    
+    say_hi <- function(ds_edu) {
+      print(paste0("Passionate ", ds_edu$role, " with a research background and over eight years of experience."))
+      print("Adept at harnessing data to uncover compelling stories and insight.")
+      print("Empowering others to leverage their data and make complex concepts accessible.")
+      print("Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.")
+      print("Capable of tackling a wide range of projects and challenges.")
+      print("Committed to sharing knowledge and guiding others on their data-driven journeys.")
+      print("Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.")
+      print("Thanks for reading!")
     }
-  )
-)
-
-say_hi <- function(ds_edu) {
-  print(paste0("Passionate ", ds_edu$role, " with a research background and over eight years of experience."))
-  print("Adept at harnessing data to uncover compelling stories and insight.")
-  print("Empowering others to leverage their data and make complex concepts accessible.")
-  print("Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.")
-  print("Capable of tackling a wide range of projects and challenges.")
-  print("Committed to sharing knowledge and guiding others on their data-driven journeys.")
-  print("Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.")
-  print("Thanks for reading!")
-}
-
-ds_edu <- DataScienceEducator$new()
-say_hi(ds_edu) 
-```
-          
-</div>
-          
-<div align="center">          
-<h3>𝚈𝚘𝚞 𝚌𝚊𝚗 𝚕𝚎𝚊𝚛𝚗 𝚊 𝚕𝚘𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 𝚏𝚛𝚘𝚖 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘!</h3>
-  
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=default&show_offline=false&background_color=1b2932&interchange=true&bar_color=008ae6" alt="Spotify GitHub Profile" />
-  </a>
-</div>
-
+    
+    ds_edu <- DataScienceEducator$new()
+    say_hi(ds_edu) 
+    ```
+              
+    </div>
+              
+    <div align="center">          
+    <h3>𝚈𝚘𝚞 𝚌𝚊𝚗 𝚕𝚎𝚊𝚛𝚗 𝚊 𝚕𝚘𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 𝚏𝚛𝚘𝚖 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘!</h3>
+      
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true" target="_blank">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=default&show_offline=false&background_color=1b2932&interchange=true&bar_color=008ae6" alt="Spotify GitHub Profile" />
+      </a>
+    </div>
 </details>
-    <div align="left" id="tech">
-        <div id="languages">
+    <details align="center" id="tech">
+        <summary><b>:shipit: &nbsp; &nbsp;<h2>My technologie stack</h2> &nbsp;&nbsp;&nbsp; </b></summary>
+        <div id="languages" align="left">
             <h2>:bulb: Languages and technologies that I code in</h2>
             <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
             <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
@@ -91,7 +91,7 @@ say_hi(ds_edu)
             <code><img title="Storybook" alt="storybook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"/></code>
         </div>
         </br></br>
-        <div id="framevorks">
+        <div id="framevorks" align="left">
         <h2>:hammer_and_wrench:& Frameworks</h2>
             <code><img title="Angular" alt="angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></code>
             <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
@@ -105,7 +105,7 @@ say_hi(ds_edu)
             <code><img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
         </div>
             </br></br>
-        <div id="bd">
+        <div id="bd" align="left">
         <h2>:hammer_and_wrench:Database</h2>
             <code><img title="firebase" alt="firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/></code>
             <code><img title="MongoDB" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></code>
@@ -113,7 +113,7 @@ say_hi(ds_edu)
             <code><img title="PostgreSQL" alt="postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
         </div>
             </br></br>
-        <div id="utils">
+        <div id="utils" align="left">
         <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
             <code><img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></code>
             <code><img title="Docker" alt="docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
@@ -126,7 +126,7 @@ say_hi(ds_edu)
             <code><img title="Gulp" alt="gulp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/></code>
         </div>
             </br></br>
-        <div id="other">
+        <div id="other" align="left">
         <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
             <code><img title="Confluence" alt="confluence" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg"/></code>
             <code><img title="Jira" alt="jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></code>
@@ -135,7 +135,7 @@ say_hi(ds_edu)
             <code><img title="Google chrome" alt="google chrome" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></code>
             <code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/></code>
         </div>
-    </div>
+    </details>
     </br></br>
     <div align="center" id="stats">
     <h2>:hammer_and_wrench: My statistics</h2>
