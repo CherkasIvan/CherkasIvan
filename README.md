@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <div id="greatings">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Roboto+Lucida Console&color=%237E3ACE&size=30&center=true&vCenter=true&width=650&lines=Hello,+Ladies+and+Gentlemen!;I'm+Ivan;Full-stack+Engineer;Angular/NodeJS/NestJS;Glad+to+see+you+here!;" alt="full-stack angineer angular/NodeJS/NestJS"/>
+            <img src="https://readme-typing-svg.demolab.com?font=Roboto+Lucida&color=%237E3ACE&size=30&center=true&vCenter=true&width=650&lines=Hello,+Ladies+and+Gentlemen!;I'm+Ivan;Full-stack+Engineer;Angular/NodeJS/NestJS;Glad+to+see+you+here!;" alt="full-stack angineer angular/NodeJS/NestJS"/>
         </a>
     </div>
     <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="60%"/>
@@ -161,7 +161,7 @@ say_hi(ds_edu)
 <div id="footer" align="center">
     <div id="greatings">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Roboto+Lucida Console&color=27F76A&size=30&center=true&vCenter=true&width=650&lines=Thanks+for+watching+and+nice+to+meet+you;Come+again!;=);" alt="Thanks for watching and nice to meet you. Come again!"/>
+            <img src="https://readme-typing-svg.demolab.com?font=Roboto+Lucida&color=27F76A&size=30&center=true&vCenter=true&width=700&lines=Thanks+for+watching+and+nice+to+meet+you;Come+again!;=);" alt="Thanks for watching and nice to meet you. Come again!"/>
         </a>
     </div>
     <p align="right">
