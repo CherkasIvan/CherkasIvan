@@ -161,7 +161,6 @@
         </div>
     </div>
 </div>
-</br></br>
 <div id="footer" align="center">
     <div id="greatings">
         <a href="https://git.io/typing-svg">
