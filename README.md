@@ -30,7 +30,9 @@
 </div>
 <div id="main">
     <details align="center">
-      <summary><b>:shipit: &nbsp; &nbsp;<h2> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 </h2> &nbsp;&nbsp;&nbsp; </b></summary>
+      <summary>
+          <b>:shipit: &nbsp; &nbsp;<h2> A little about me</h2> &nbsp;&nbsp;&nbsp;</b>
+      </summary>
     
     <div align="left">
       
@@ -77,7 +79,9 @@
     </div>
 </details>
     <details align="center" id="tech">
-        <summary><b>:shipit: &nbsp; &nbsp;<h2>My technologie stack</h2> &nbsp;&nbsp;&nbsp; </b></summary>
+        <summary>
+            <b>:shipit: &nbsp; &nbsp;<h2>My technologie stack</h2> &nbsp;&nbsp;&nbsp;</b>
+        </summary>
         <div id="languages" align="left">
             <h2>:bulb: Languages and technologies that I code in</h2>
             <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
