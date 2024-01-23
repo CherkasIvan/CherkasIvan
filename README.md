@@ -140,7 +140,6 @@
             <code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/></code>
         </div>
     </details>
-    </br></br>
     <div align="center" id="stats">
     <h2>:hammer_and_wrench: My statistics</h2>
         <div align="top">
