@@ -26,7 +26,7 @@
             <img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
         </a>
         <a href="mailto:cherkas.ivan13@gmail.com">
-             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22px" alt="GMail" />
+             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" />
         </a>
     </div>
     <h2>:bulb: Languages & Frameworks I code in</h2>
