@@ -76,10 +76,10 @@
         </div>
         <div align="bottom">
             <a href="https://github.com/CherkasIvan" align="left">
-                <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280"/>
+                <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherkasIvan&layout=compact&langs_count=8&card_width=280&theme=highcontrast&"/>
             </a>
             <a href="https://www.codewars.com/users/Cherkas%20Ivan" align="right">
-                <img height="200" src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan"/>
+                <img height="200" src="https://github.r2v.ch/codewars?user=Cherkas%20Ivan&theme=android-dark"/>
             </a>
         </div>
     </div>
