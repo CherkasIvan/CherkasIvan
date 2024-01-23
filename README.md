@@ -51,6 +51,7 @@
         <h2>:hammer_and_wrench:& Frameworks</h2>
             <code><img title="Angular" alt="angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></code>
             <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+            <code><img title="Redux" alt="redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/></code>
             <code><img title="NestJS" alt="nest js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/></code>
             <code><img title="TailwindCSS" alt="tailwindcss" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></code>
             <code><img title="Jquery" alt="jquery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/></code>
@@ -76,6 +77,9 @@
             <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code>
             <code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></code>
             <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></code>
+            <code><img title="Webpack" alt="webpack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/></code>
+            <code><img title="Grunt" alt="grunt" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"/></code>
+            <code><img title="Gulp" alt="gulp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"/></code>
         </div>
             </br></br>
         <div id="other">
@@ -86,10 +90,6 @@
             <code><img title="Figma" alt="figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></code>
             <code><img title="Google chrome" alt="google chrome" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></code>
             <code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/></code>
-            <code><img title="Slack" alt="slack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/></code>
-            <code><img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></code>
-            <code><img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/></code>
-            <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></code>
         </div>
     </div>
     </br></br>
