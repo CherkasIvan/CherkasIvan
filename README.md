@@ -1,3 +1,7 @@
+### My GitHub Statistics
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CherkasIvan&show_icons=true&theme=highcontrast&repo=github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CherkasIvan&theme=android-dark)](https://git.io/streak-stats)
 <div id="header" align="center">
     <div id="top">
         <div align="center">
