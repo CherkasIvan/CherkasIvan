@@ -66,12 +66,12 @@
     </br></br>
     <div align="center" id="stats">
         <div align="top">
-            <div align="left">
+            <a align="left">
                 <img height="200" src="https://github-readme-stats.vercel.app/api?username=CherkasIvan&show_icons=true&theme=highcontrast&repo=github-readme-stats"/>
-            </div>
-            <div align="right">
+            </a>
+            <a align="right">
                 <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=CherkasIvan&theme=android-dark"/>
-            </div>
+            </a>
         </div>
         <div align="bottom">
             <a href="https://github.com/CherkasIvan" align="left">
