@@ -36,26 +36,28 @@
     <div align="left">
   
 ```R
-// Added a ts extension to indicate TypeScript code
-// Used the @Component decorator to define the DataScienceEducator component
 import { Component } from '@angular/core';
 
 @Component({
 selector: 'software-engineer',
 template: `<div align="center">
-<h2>A little about me</h2>
-<p>{{ say_hi() }}</p>
-</div>`
+    <h2>A little about me</h2>
+    <p>{{ say_hi() }}</p>
+    </div>`
 })
 export class SoftwareEngineer {
-    name: string;
-    role: string;
-    hobby: string;
+    name: string = '';
+    role: string; = ''
+    company: string = '';
+    hobby: string = '';
+    technologiesInterests: Array<string> = [];
     
     constructor() {
         this.name = "Ivan Cherkas";
         this.role = "Full-stack developer";
+        this.company = "NeatSoft inc."
         this.hobby = "Leather craft";
+        this.technologiesInterests = [Angular, SSR, NestJS, NodeJS, React, Redux, NgRx]
     }
     
     say_hi(): string {
