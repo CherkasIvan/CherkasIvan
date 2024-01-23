@@ -25,6 +25,9 @@
         <a href="https://www.facebook.com/ivan.cherkas">
             <img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
         </a>
+        <a href="mailto:cherkas.ivan13@gmail.com">
+             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22px" alt="GMail" />
+        </a>
     </div>
     <h2>:bulb: Languages & Frameworks I code in</h2>
     <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
