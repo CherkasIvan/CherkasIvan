@@ -38,6 +38,8 @@
     <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
     <code> <img title="NestJS" alt="nest js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/></code>
     <code> <img title="Sass" alt="sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></code>
+    <code> <img title="Jasmine" alt="jasmine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"/></code>
+    <code> <img title="Jest" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
     </br></br>
     <div id="main">
         <a href="https://github.com/CherkasIvan" align="left">
