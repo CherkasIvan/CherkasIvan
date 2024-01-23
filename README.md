@@ -116,10 +116,15 @@
             <img src="https://readme-typing-svg.demolab.com?font=Roboto+Lucida Console&color=27F76A&size=30&center=true&vCenter=true&width=650&lines=Thanks+for+watching+and+nice+to+meet+you;Come+again!;=);" alt="Thanks for watching and nice to meet you. Come again!"/>
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=CherkasIvan&style=flat-square&color=blue" alt="" />
     <p align="right">
         <a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top"/></a>
     </p>
+    <table>
+          <tr>
+            <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
+            <td><img src="https://profile-counter.glitch.me/CherkasIvan/count.svg" alt="Cherkas Ivan count"/></td>
+          </tr>
+    </table>
 </div>
 
 <!--
