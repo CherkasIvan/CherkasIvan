@@ -29,47 +29,53 @@
     </div>
 </div>
 <div id="main">
-    <details align="center">
-      <summary >
-          <b>:shipit: &nbsp; &nbsp;<h2> A little about me</h2> &nbsp;&nbsp;&nbsp;</b>
-      </summary>
-    <div align="left">
-    ```R
-    DataScienceEducator <- setRefClass(
-      "DataScienceEducator",
-      fields = list(
-        name = "character",
-        role = "character",
-        hobby = "character"
-      ),
-      methods = list(
-        initialize = function() {
-          name <<- "Greg Chism"
-          role <<- "Assistant Professor of Practice"
-          hobby <<- "Website Development"
-        }
-      )
-    )
-    say_hi <- function(ds_edu) {
-      print(paste0("Passionate ", ds_edu$role, " with a research background and over eight years of experience."))
-      print("Adept at harnessing data to uncover compelling stories and insight.")
-      print("Empowering others to leverage their data and make complex concepts accessible.")
-      print("Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.")
-      print("Capable of tackling a wide range of projects and challenges.")
-      print("Committed to sharing knowledge and guiding others on their data-driven journeys.")
-      print("Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.")
-      print("Thanks for reading!")
+<details align="center">
+  <summary><b>:shipit: &nbsp; &nbsp;<h2> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 </h2> &nbsp;&nbsp;&nbsp; </b></summary>
+
+<div align="left">
+  
+```R
+DataScienceEducator <- setRefClass(
+  "DataScienceEducator",
+  fields = list(
+    name = "character",
+    role = "character",
+    hobby = "character"
+  ),
+  methods = list(
+    initialize = function() {
+      name <<- "Greg Chism"
+      role <<- "Assistant Professor of Practice"
+      hobby <<- "Website Development"
     }
-    ds_edu <- DataScienceEducator$new()
-    say_hi(ds_edu) 
-    ```       
-    </div>             
-    <div align="center">          
-    <h3>𝚈𝚘𝚞 𝚌𝚊𝚗 𝚕𝚎𝚊𝚛𝚗 𝚊 𝚕𝚘𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 𝚏𝚛𝚘𝚖 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘!</h3>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true" target="_blank">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=default&show_offline=false&background_color=1b2932&interchange=true&bar_color=008ae6" alt="Spotify GitHub Profile" />
-      </a>
-    </div>
+  )
+)
+
+say_hi <- function(ds_edu) {
+  print(paste0("Passionate ", ds_edu$role, " with a research background and over eight years of experience."))
+  print("Adept at harnessing data to uncover compelling stories and insight.")
+  print("Empowering others to leverage their data and make complex concepts accessible.")
+  print("Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.")
+  print("Capable of tackling a wide range of projects and challenges.")
+  print("Committed to sharing knowledge and guiding others on their data-driven journeys.")
+  print("Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.")
+  print("Thanks for reading!")
+}
+
+ds_edu <- DataScienceEducator$new()
+say_hi(ds_edu) 
+```
+          
+</div>
+          
+<div align="center">          
+<h3>𝚈𝚘𝚞 𝚌𝚊𝚗 𝚕𝚎𝚊𝚛𝚗 𝚊 𝚕𝚘𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎 𝚏𝚛𝚘𝚖 𝚠𝚑𝚊𝚝 𝙸 𝚕𝚒𝚜𝚝𝚎𝚗 𝚝𝚘!</h3>
+  
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=urpdt8zjkq63vzgwphnceq2m7&cover_image=true&theme=default&show_offline=false&background_color=1b2932&interchange=true&bar_color=008ae6" alt="Spotify GitHub Profile" />
+  </a>
+</div>
+
 </details>
     <details align="center" id="tech">
         <summary>
