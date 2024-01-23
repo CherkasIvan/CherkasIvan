@@ -65,6 +65,7 @@
     </div>
     </br></br>
     <div align="center" id="stats">
+    <h2>:hammer_and_wrench: My statistics</h2>
         <div align="top">
             <a align="left">
                 <img height="200" src="https://github-readme-stats.vercel.app/api?username=CherkasIvan&show_icons=true&theme=highcontrast&repo=github-readme-stats"/>
