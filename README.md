@@ -36,35 +36,34 @@
     <div align="left">
   
 ```R
-DataScienceEducator <- setRefClass(
-  "DataScienceEducator",
-  fields = list(
-    name = "character",
-    role = "character",
-    hobby = "character"
-  ),
-  methods = list(
-    initialize = function() {
-      name <<- "Greg Chism"
-      role <<- "Assistant Professor of Practice"
-      hobby <<- "Website Development"
-    }
-  )
-)
-
-say_hi <- function(ds_edu) {
-  print(paste0("Passionate ", ds_edu$role, " with a research background and over eight years of experience."))
-  print("Adept at harnessing data to uncover compelling stories and insight.")
-  print("Empowering others to leverage their data and make complex concepts accessible.")
-  print("Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.")
-  print("Capable of tackling a wide range of projects and challenges.")
-  print("Committed to sharing knowledge and guiding others on their data-driven journeys.")
-  print("Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.")
-  print("Thanks for reading!")
+// Added a js extension to indicate JavaScript code
+// Used a class to define the DataScienceEducator
+class DataScienceEducator {
+// Used a constructor to initialize the fields
+constructor() {
+this.name = "Greg Chism";
+this.role = "Assistant Professor of Practice";
+this.hobby = "Website Development";
+}
 }
 
-ds_edu <- DataScienceEducator$new()
-say_hi(ds_edu) 
+// Used a function expression to define the say_hi function
+const say_hi = function (ds_edu) {
+// Used console.log to print the messages
+console.log(`Passionate ${ds_edu.role} with a research background and over eight years of experience.`);
+console.log("Adept at harnessing data to uncover compelling stories and insight.");
+console.log("Empowering others to leverage their data and make complex concepts accessible.");
+console.log("Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.");
+console.log("Capable of tackling a wide range of projects and challenges.");
+console.log("Committed to sharing knowledge and guiding others on their data-driven journeys.");
+console.log("Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.");
+console.log("Thanks for reading!");
+};
+
+// Used the new keyword to create an instance of the DataScienceEducator
+const ds_edu = new DataScienceEducator();
+// Called the say_hi function with the ds_edu as an argument
+say_hi(ds_edu);
 ```
 </div>
           
