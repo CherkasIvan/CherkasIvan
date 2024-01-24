@@ -41,15 +41,21 @@ import { Component } from '@angular/core';
 @Component({
 selector: 'software-engineer',
 template: `<div align="center">
-    <h2>A little about me</h2>
-    <p>{{ say_hi() }}</p>
-    </div>`
+            <h2>A little about me</h2>
+                <p>{{ sayHi() }}</p>
+                <ul>
+                     <li *ngFor="let technology of technologiesInterests">
+                        {{item}}
+                    </li>
+                </ul>
+            </div>`
 })
 export class SoftwareEngineer {
     name: string = '';
-    role: string; = ''
+    role: string = '';
     company: string = '';
     hobby: string = '';
+    sport: string = '';
     technologiesInterests: Array<string> = [];
     
     constructor() {
@@ -57,18 +63,17 @@ export class SoftwareEngineer {
         this.role = "Full-stack developer";
         this.company = "NeatSoft inc."
         this.hobby = "Leather craft";
-        this.technologiesInterests = [Angular, SSR, NestJS, NodeJS, React, Redux, NgRx]
+        this.sport = "Kung Fu"
+        this.technologiesInterests = ['Angular', 'SSR', 'NestJS', 'NodeJS', 'React', 'Redux', 'NgRx']
     }
     
-    say_hi(): string {
-        return `Passionate ${this.role} with a research background and over eight years of experience.
-        Adept at harnessing data to uncover compelling stories and insight.
-        Empowering others to leverage their data and make complex concepts accessible.
-        Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages.
-        Capable of tackling a wide range of projects and challenges.
-        Committed to sharing knowledge and guiding others on their data-driven journeys.
-        Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science.
-        Thanks for reading!`;
+    sayHi(): string {
+        return `Hi all! My name is ${this.name} and for 3+ years I have been a ${this.role}.
+                At the moment I work for the ${this.company} and I will be glad to report that although it is small in number,
+                it is not based on quantity but on quality. Absolutely all employees are decent guys and highly qualified specialists.
+                Besides work, I have another important process in my life: my hobby. ${this.hobby} ome may find it boring,
+                but I see it as a form of meditation. For sports I prefer ${this.sport}
+                Thanks for reading!`;
     }
 }
 ```
