@@ -4,7 +4,7 @@
             <img src="https://readme-typing-svg.demolab.com?font=Roboto+Lucida&color=%237E3ACE&size=30&center=true&vCenter=true&width=650&lines=Hello,+Ladies+and+Gentlemen!;I'm+Ivan;Full-stack+Engineer;Angular/NodeJS/NestJS;Glad+to+see+you+here!;" alt="full-stack angineer angular/NodeJS/NestJS"/>
         </a>
     </div>
-    <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="60%"/>
+    <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="40%"/>
     <br>
     <div id="badges">
         <h2>:busts_in_silhouette: How to reach me?</h2>
@@ -189,7 +189,7 @@ export class SoftwareEngineer {
     </p>
     <table>
           <tr>
-            <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
+            <td>You are visitor</td>
             <td><img src="https://profile-counter.glitch.me/CherkasIvan/count.svg" alt="Cherkas Ivan count of visitors"/></td>
           </tr>
     </table>
