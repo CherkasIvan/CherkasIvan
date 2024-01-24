@@ -46,7 +46,7 @@ template: `<div align="center">
             <h2>A little about me</h2>
                 <p>{{ sayHi() }}</p>
                 <ul>
-                     <li *ngFor="let technology of technologiesInterests">
+                    <li *ngFor="let technology of technologiesInterests">
                         {{technology}}
                     </li>
                 </ul>
