@@ -31,7 +31,9 @@
 <div id="main">
 <details align="center">
   <summary>
-      <b>:shipit: &nbsp; &nbsp;<h2>A little about me</h2> &nbsp;&nbsp;&nbsp;</b>
+      <b>:call_me_hand:
+          <h2>A little about me</h2>
+      </b>
   </summary>
     <div align="left">
   
@@ -92,7 +94,9 @@ export class SoftwareEngineer {
 </details>
     <details align="center" id="tech">
         <summary>
-            <b>:shipit: &nbsp; &nbsp;<h2>My technologie stack</h2> &nbsp;&nbsp;&nbsp;</b>
+            <b>:man_technologist:
+                <h2>My technologie stack</h2>
+            </b>
         </summary>
         <div id="languages" align="left">
             <h2>:robot: Languages and technologies that I code in</h2>
@@ -130,7 +134,7 @@ export class SoftwareEngineer {
         </div>
             </br></br>
         <div id="utils" align="left">
-        <h2>:rocket: Things that help me getting my code done</h2>
+        <h2>:computer: Things that help me getting my code done</h2>
             <code><img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></code>
             <code><img title="Docker" alt="docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
             <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
@@ -143,7 +147,7 @@ export class SoftwareEngineer {
         </div>
             </br></br>
         <div id="other" align="left">
-        <h2>:computer: Other technologies</h2>
+        <h2>:rocket: Other technologies</h2>
             <code><img title="Confluence" alt="confluence" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg"/></code>
             <code><img title="Jira" alt="jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></code>
             <code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/></code>
