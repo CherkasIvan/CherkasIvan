@@ -60,18 +60,18 @@ export class SoftwareEngineer {
     technologiesInterests: Array<string> = [];
     
     constructor() {
-        this.name = "Ivan Cherkas";
-        this.role = "Full-stack developer";
-        this.company = "NeatSoft inc."
-        this.hobby = "Leather craft";
-        this.sport = "Kung Fu"
-        this.workExperience = 3
-        this.technologiesInterests = ['Angular', 'SSR', 'NestJS', 'NodeJS', 'React', 'Redux', 'NgRx']
+        this.name = 'Ivan Cherkas';
+        this.role = 'Full-stack developer';
+        this.company = 'NeatSoft company';
+        this.hobby = 'Leather craft';
+        this.sport = 'Kung Fu';
+        this.workExperience = 3;
+        this.technologiesInterests = ['Angular', 'SSR', 'NestJS', 'NodeJS', 'React', 'Redux', 'NgRx'];
     }
     
     sayHi(): string {
         return `Hi all! My name is ${this.name} and for ${this.workExperience}+ years I have been a ${this.role}.
-                At the moment I work for the ${this.company} and I will be glad to report that although it is small in number,
+                At the moment I work for the autsorce ${this.company} and I will be glad to report that although it is small in number,
                 it is not based on quantity but on quality. Absolutely all employees are decent guys and highly qualified specialists.
                 Besides work, I have another important process in my life: my hobby. ${this.hobby} ome may find it boring,
                 but I see it as a form of meditation. For sports I prefer ${this.sport}
@@ -95,7 +95,7 @@ export class SoftwareEngineer {
             <b>:shipit: &nbsp; &nbsp;<h2>My technologie stack</h2> &nbsp;&nbsp;&nbsp;</b>
         </summary>
         <div id="languages" align="left">
-            <h2>:bulb: Languages and technologies that I code in</h2>
+            <h2>:robot: Languages and technologies that I code in</h2>
             <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
             <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
             <code><img title="TypeScript" alt="typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
@@ -122,7 +122,7 @@ export class SoftwareEngineer {
         </div>
             </br></br>
         <div id="bd" align="left">
-        <h2>:hammer_and_wrench:Database</h2>
+        <h2>:file_cabinet: Database</h2>
             <code><img title="firebase" alt="firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/></code>
             <code><img title="MongoDB" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></code>
             <code><img title="MySQL" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code>
@@ -130,7 +130,7 @@ export class SoftwareEngineer {
         </div>
             </br></br>
         <div id="utils" align="left">
-        <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+        <h2>:rocket: Things that help me getting my code done</h2>
             <code><img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></code>
             <code><img title="Docker" alt="docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
             <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
@@ -143,7 +143,7 @@ export class SoftwareEngineer {
         </div>
             </br></br>
         <div id="other" align="left">
-        <h2>:hammer_and_wrench: Other technologies</h2>
+        <h2>:computer: Other technologies</h2>
             <code><img title="Confluence" alt="confluence" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg"/></code>
             <code><img title="Jira" alt="jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></code>
             <code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/></code>
@@ -153,7 +153,7 @@ export class SoftwareEngineer {
         </div>
     </details>
     <div align="center" id="stats">
-    <h2>:hammer_and_wrench: My statistics</h2>
+    <h2>:chart_with_upwards_trend: My statistics</h2>
         <div align="top">
             <a align="left">
                 <img height="200" src="https://github-readme-stats.vercel.app/api?username=CherkasIvan&show_icons=true&theme=highcontrast&repo=github-readme-stats"/>
@@ -175,7 +175,7 @@ export class SoftwareEngineer {
 <div id="footer" align="center">
     <div id="greatings">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Roboto+Lucida&color=27F76A&size=30&center=true&vCenter=true&width=700&lines=Thanks+for+watching+and+nice+to+meet+you;Come+again!;=);" alt="Thanks for watching and nice to meet you. Come again!"/>
+            <img src="https://readme-typing-svg.demolab.com?font=Roboto+Lucida&color=27F76A&size=30&center=true&vCenter=true&width=700&lines=Thanks+for+watching+and+nice+to+meet+you;Come+again!+=);" alt="Thanks for watching and nice to meet you. Come again!"/>
         </a>
     </div>
     <p align="right">
