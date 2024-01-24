@@ -45,7 +45,7 @@ template: `<div align="center">
                 <p>{{ sayHi() }}</p>
                 <ul>
                      <li *ngFor="let technology of technologiesInterests">
-                        {{item}}
+                        {{technology}}
                     </li>
                 </ul>
             </div>`
@@ -56,6 +56,7 @@ export class SoftwareEngineer {
     company: string = '';
     hobby: string = '';
     sport: string = '';
+    workExperience: number = 0;
     technologiesInterests: Array<string> = [];
     
     constructor() {
@@ -64,11 +65,12 @@ export class SoftwareEngineer {
         this.company = "NeatSoft inc."
         this.hobby = "Leather craft";
         this.sport = "Kung Fu"
+        this.workExperience = 3
         this.technologiesInterests = ['Angular', 'SSR', 'NestJS', 'NodeJS', 'React', 'Redux', 'NgRx']
     }
     
     sayHi(): string {
-        return `Hi all! My name is ${this.name} and for 3+ years I have been a ${this.role}.
+        return `Hi all! My name is ${this.name} and for ${this.workExperience}+ years I have been a ${this.role}.
                 At the moment I work for the ${this.company} and I will be glad to report that although it is small in number,
                 it is not based on quantity but on quality. Absolutely all employees are decent guys and highly qualified specialists.
                 Besides work, I have another important process in my life: my hobby. ${this.hobby} ome may find it boring,
@@ -141,13 +143,13 @@ export class SoftwareEngineer {
         </div>
             </br></br>
         <div id="other" align="left">
-        <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+        <h2>:hammer_and_wrench: Other technologies</h2>
             <code><img title="Confluence" alt="confluence" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg"/></code>
             <code><img title="Jira" alt="jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></code>
+            <code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/></code>
             <code><img title="Photoshop" alt="photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/></code>
             <code><img title="Figma" alt="figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></code>
             <code><img title="Google chrome" alt="google chrome" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></code>
-            <code><img title="Trello" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/></code>
         </div>
     </details>
     <div align="center" id="stats">
