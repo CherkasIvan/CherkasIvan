@@ -14,7 +14,7 @@
         <a href="https://www.instagram.com/johnny_void_13">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
-        <a href="linkedin.com/in/ivan-cherkas-723b411a2">
+        <a href="https://www.linkedin.com/in/ivan-cherkas-723b411a2">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://twitter.com/ivanCherkas_13">
